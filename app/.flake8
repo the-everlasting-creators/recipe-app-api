@@ -1,5 +1,6 @@
 [flake8]
 ignore = E501
+indent-size = 2
 exlude = 
   migrations,
   __pycache__,
